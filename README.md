@@ -1,6 +1,6 @@
 # Red-Machine-test-task
 
-Test task for Red Machine comp.
+Test task for Red Machine company 
 
 ## Задача
 
